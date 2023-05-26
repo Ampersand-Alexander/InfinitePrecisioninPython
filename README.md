@@ -27,7 +27,7 @@ A simple calculator
 read lines from user
 M + N, M - N, etc -- output the result
 
-#How to use:
+# How to use:
 
 feed a string, int or float into the highprecision() class that will serve as it's value.
 Then perform any operator with that value and another high precision class and value.
